@@ -1,3 +1,4 @@
+# my-branch update
 # Updated by gegeensaruul-hash
 #!/bin/bash
 # Script to calculate simple interest
